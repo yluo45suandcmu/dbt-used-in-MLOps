@@ -1,0 +1,34 @@
+
+version: 2
+
+models:
+  - name: user_information
+    columns:
+      - name: user_id
+        tests:
+          - not_null
+
+  - name: user_rating_data
+    columns:
+      - name: UserID
+        tests:
+          - not_null
+          - relationships:
+              to: ref('user_information')
+              field: user_id
+
+  - name: user_ratings_aggregated
+    description: "A joined view of user information and their movie ratings."
+    columns:
+      - name: user_id
+        tests:
+          - not_null
+      - name: movie_id
+        tests:
+          - not_null
+      - name: rating
+        tests:
+          - not_null
+          - accepted_values:
+              values: [1, 2, 3, 4, 5]  
+

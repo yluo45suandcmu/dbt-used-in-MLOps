@@ -1,0 +1,305 @@
+user_id,age,occupation,gender
+99788,28,executive/managerial,F
+160766,18,K-12 student,F
+33394,26,K-12 student,M
+22133,34,executive/managerial,M
+209904,29,college/grad student,M
+165531,31,sales/marketing,M
+131397,28,executive/managerial,M
+5750,26,college/grad student,F
+130354,31,executive/managerial,M
+18184,29,customer service,M
+99425,26,scientist,M
+118783,30,self-employed,M
+180714,28,self-employed,M
+185107,18,college/grad student,M
+114484,86,self-employed,F
+117166,27,executive/managerial,M
+102505,28,executive/managerial,M
+97348,89,other or not specified,F
+96644,45,clerical/admin,F
+64567,41,executive/managerial,M
+96925,29,artist,F
+112308,26,sales/marketing,M
+74516,27,executive/managerial,M
+77206,23,sales/marketing,M
+74039,31,self-employed,M
+208041,34,college/grad student,M
+118201,27,executive/managerial,M
+209063,34,executive/managerial,M
+42424,31,sales/marketing,M
+140952,28,scientist,M
+170171,20,programmer,M
+85832,28,other or not specified,F
+38266,31,self-employed,M
+135589,33,artist,M
+156980,26,executive/managerial,M
+7569,32,college/grad student,M
+55027,26,lawyer,M
+37109,55,retired,F
+8610,18,college/grad student,M
+26488,30,college/grad student,M
+116436,19,sales/marketing,F
+60725,27,other or not specified,M
+46485,32,executive/managerial,M
+63834,42,artist,M
+46299,25,sales/marketing,M
+152152,33,college/grad student,F
+152829,25,executive/managerial,F
+29505,33,college/grad student,M
+58452,33,college/grad student,M
+216037,27,college/grad student,M
+55255,26,executive/managerial,M
+171366,31,college/grad student,F
+146250,21,K-12 student,M
+183731,59,lawyer,F
+148689,32,college/grad student,F
+171859,33,K-12 student,M
+180949,29,college/grad student,M
+172263,25,self-employed,M
+175389,23,K-12 student,M
+34825,25,executive/managerial,M
+107695,31,executive/managerial,M
+107663,29,executive/managerial,M
+25126,27,self-employed,M
+150599,32,executive/managerial,M
+171064,28,sales/marketing,M
+193941,26,college/grad student,M
+48413,28,executive/managerial,M
+185014,31,executive/managerial,M
+10609,34,programmer,M
+107338,27,technician/engineer,M
+101673,27,K-12 student,M
+84100,31,college/grad student,F
+74016,32,other or not specified,M
+56371,30,executive/managerial,M
+113215,30,self-employed,M
+82697,31,college/grad student,M
+96123,20,college/grad student,F
+200573,29,artist,M
+157907,33,K-12 student,M
+81016,33,other or not specified,F
+68762,33,self-employed,F
+200913,34,homemaker,M
+79821,27,academic/educator,F
+127815,34,college/grad student,M
+63609,63,academic/educator,M
+57965,28,college/grad student,F
+113967,26,other or not specified,M
+191200,28,programmer,M
+99923,27,scientist,M
+53782,26,academic/educator,M
+30283,52,other or not specified,M
+185624,25,clerical/admin,M
+212166,26,college/grad student,M
+44646,33,executive/managerial,M
+89353,32,other or not specified,M
+93439,26,scientist,F
+86717,28,other or not specified,M
+14203,25,executive/managerial,M
+797,27,artist,F
+148301,28,academic/educator,M
+21471,18,homemaker,M
+655,33,executive/managerial,M
+187539,26,executive/managerial,M
+178740,27,self-employed,M
+159923,32,clerical/admin,M
+11752,33,scientist,M
+197753,40,executive/managerial,M
+69643,46,academic/educator,M
+16268,28,homemaker,F
+45034,26,executive/managerial,M
+27011,30,college/grad student,F
+137032,31,sales/marketing,M
+4607,34,sales/marketing,M
+29736,27,college/grad student,M
+9978,26,other or not specified,M
+89251,31,college/grad student,M
+95412,32,college/grad student,M
+19932,33,college/grad student,M
+34352,25,college/grad student,M
+185743,34,technician/engineer,M
+54868,32,college/grad student,F
+169317,33,tradesman/craftsman,M
+4877,27,artist,M
+60403,25,scientist,M
+213880,30,college/grad student,M
+25993,31,executive/managerial,M
+196809,26,executive/managerial,M
+4294,24,technician/engineer,M
+142516,31,sales/marketing,M
+171911,28,other or not specified,F
+82978,25,scientist,M
+7100,18,K-12 student,M
+125600,32,sales/marketing,M
+80582,31,scientist,M
+88159,34,other or not specified,M
+18810,32,other or not specified,F
+46351,33,college/grad student,M
+56857,29,college/grad student,M
+80794,18,sales/marketing,M
+82095,29,executive/managerial,M
+191975,29,college/grad student,M
+137586,29,technician/engineer,M
+10577,34,self-employed,M
+103050,28,college/grad student,M
+13815,28,other or not specified,M
+75875,33,college/grad student,M
+207700,29,homemaker,M
+10209,25,scientist,F
+2381,29,executive/managerial,M
+52573,20,sales/marketing,M
+136665,32,other or not specified,M
+199709,31,sales/marketing,M
+94447,29,college/grad student,M
+9590,30,executive/managerial,M
+118461,33,homemaker,F
+86548,31,other or not specified,M
+104444,25,clerical/admin,M
+50408,30,self-employed,M
+176704,27,executive/managerial,M
+19726,28,scientist,M
+145575,25,sales/marketing,M
+31036,26,sales/marketing,M
+4371,28,clerical/admin,F
+41847,26,executive/managerial,M
+196733,27,scientist,M
+101709,81,executive/managerial,M
+141162,25,customer service,M
+26311,29,sales/marketing,M
+127020,28,executive/managerial,M
+23672,33,sales/marketing,M
+27323,25,self-employed,M
+75180,31,college/grad student,M
+133014,22,K-12 student,M
+154269,31,homemaker,M
+25868,34,other or not specified,M
+12971,29,college/grad student,F
+141702,33,scientist,M
+16698,32,academic/educator,M
+93737,32,homemaker,F
+33077,31,executive/managerial,M
+100725,29,sales/marketing,M
+22579,34,college/grad student,M
+27505,42,other or not specified,M
+157055,25,executive/managerial,M
+13821,28,college/grad student,F
+61888,30,executive/managerial,M
+16283,30,college/grad student,M
+28682,34,sales/marketing,F
+19117,32,executive/managerial,M
+33729,40,sales/marketing,M
+128633,77,retired,F
+140574,32,self-employed,F
+168749,31,college/grad student,M
+107873,29,executive/managerial,M
+153646,25,doctor/health care,M
+15735,33,scientist,M
+52352,34,executive/managerial,M
+104180,31,executive/managerial,M
+139489,35,college/grad student,M
+184569,35,other or not specified,F
+16636,29,programmer,M
+9059,59,artist,M
+139820,26,homemaker,M
+89772,28,scientist,M
+125672,21,K-12 student,F
+158230,25,executive/managerial,M
+144241,29,scientist,M
+98084,34,homemaker,F
+168584,34,college/grad student,M
+36446,31,other or not specified,F
+76191,27,executive/managerial,M
+172682,34,executive/managerial,M
+55167,33,college/grad student,F
+144204,32,executive/managerial,M
+131081,31,self-employed,M
+42608,18,K-12 student,M
+154901,19,sales/marketing,M
+150487,29,technician/engineer,M
+91366,34,college/grad student,M
+68518,27,college/grad student,M
+144969,29,other or not specified,M
+2163,27,self-employed,M
+53389,25,college/grad student,M
+76642,25,executive/managerial,M
+195095,26,college/grad student,M
+157298,26,academic/educator,F
+106025,27,other or not specified,F
+32287,29,sales/marketing,M
+60648,25,college/grad student,F
+36637,28,college/grad student,M
+186205,26,college/grad student,M
+119859,26,homemaker,F
+56285,34,other or not specified,M
+181900,32,college/grad student,M
+156335,14,K-12 student,M
+85920,34,sales/marketing,M
+158191,34,college/grad student,F
+155914,33,clerical/admin,M
+179803,39,other or not specified,F
+65401,45,writer,F
+179712,28,college/grad student,M
+69467,28,self-employed,M
+14612,29,college/grad student,M
+172154,25,college/grad student,M
+52873,31,college/grad student,M
+138196,32,sales/marketing,F
+188606,34,homemaker,M
+115236,47,executive/managerial,M
+112909,25,clerical/admin,M
+212745,31,executive/managerial,F
+121876,29,scientist,M
+110084,73,executive/managerial,F
+107605,26,self-employed,F
+157456,25,scientist,M
+211444,31,executive/managerial,M
+139973,22,sales/marketing,M
+168682,27,self-employed,M
+120183,38,retired,M
+10213,34,college/grad student,M
+128728,25,retired,F
+34765,33,college/grad student,M
+114462,29,artist,M
+80499,34,college/grad student,M
+62910,30,college/grad student,M
+165829,28,artist,M
+202411,26,college/grad student,F
+90773,25,sales/marketing,M
+177789,28,sales/marketing,M
+142478,18,self-employed,M
+58882,25,self-employed,F
+214279,28,academic/educator,M
+39634,26,college/grad student,F
+44047,32,college/grad student,F
+83474,31,college/grad student,M
+69490,28,programmer,F
+197629,31,academic/educator,M
+3798,30,executive/managerial,M
+54432,25,executive/managerial,M
+46604,32,college/grad student,M
+5005,33,scientist,M
+57860,26,college/grad student,M
+135121,29,programmer,M
+100085,28,college/grad student,F
+181504,34,self-employed,M
+145335,31,homemaker,M
+114725,34,college/grad student,M
+122098,25,other or not specified,M
+146658,28,academic/educator,M
+106961,27,college/grad student,M
+21781,33,sales/marketing,F
+17871,42,sales/marketing,M
+157416,29,scientist,M
+10711,18,sales/marketing,F
+83048,32,self-employed,M
+54377,30,homemaker,M
+175844,30,self-employed,M
+212236,33,executive/managerial,M
+99231,20,sales/marketing,M
+109571,28,college/grad student,M
+175623,24,self-employed,M
+119670,40,college/grad student,M
+135991,33,college/grad student,M
+175299,48,academic/educator,F
+55141,25,academic/educator,F
